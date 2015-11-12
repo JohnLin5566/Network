@@ -1,0 +1,13 @@
+server:	socket programing HW, server
+client:	socket programing HW, client
+1.	construct a file connect to the telnet 
+2.	use socket client to construct a TCP connection to server
+3.	use gethostbyaddr() function from IP to get the info
+4.	show IP addresses for a host given on the command line
+5.	what the getaddrinfo function returns	
+6.	Server program, The programs are an echo server and client for UDP datagrams.
+7.	Client program, The programs are an echo server and client for UDP datagrams.
+8.	A stream socket server demo from Beej
+9.	A stream socket client demo from Beej 
+10.	create a socket
+11.	Connect a socket to a server
